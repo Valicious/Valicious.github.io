@@ -22,7 +22,7 @@ header h1 {
 .bodycontainer {
     position: relative;
     display: flex;
-    margin-top: 30em;
+    margin-top: 20em;
     justify-content: center;
 }
 
