@@ -12,7 +12,7 @@ header {
     height: auto;
     background: #1D6881 url("src/banner.jpg") no-repeat center;
     background-size: cover;
-    padding-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 
@@ -68,3 +68,6 @@ nav .btn > a:hover {
 
 /* BODY */
 
+.bodydiv1 {
+    padding: 0;
+}
