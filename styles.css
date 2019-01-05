@@ -6,15 +6,13 @@ body {
     flex-direction: column;
 }
 
-
 /* HEADER */
 header {
     height: auto;
     background: #1D6881 url("src/banner.jpg") no-repeat center;
     background-size: cover;
-    padding: 0.5em;
+    padding-bottom: 0.5em;
 }
-
 
 .penguinimg {
     width: 196px;
@@ -65,9 +63,51 @@ nav .btn > a:hover {
     color: #313437;
 }
 
-
 /* BODY */
 
-.bodydiv1 {
-    padding: 0;
+.bodydiv1 div {
+    margin: 1em;
+    font-size: 0.7em;
 }
+
+.bodydiv2 {
+    width: 30%;
+    height: 3em;
+}
+
+.bodydiv2 p {
+    font-size: 1.5em;
+}
+
+.bodydiv2:hover {
+    color: #4DC13B;
+}
+
+#cardsdiv {
+    display: grid;
+    grid-gap: 1.5em;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: auto;
+}
+
+#cardsdiv h5{
+    font-size: 50px;
+}
+
+#cardsdiv p{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

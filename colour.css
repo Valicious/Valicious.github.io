@@ -6,6 +6,13 @@
     opacity: 0.8;
 }
 
+.color-grey-font{
+    color: #313437;
+}
+
+.strong {
+    font-weight: bold;
+}
 
 /* http://paletton.com/#uid=53p0D0kpMpRmetinBrmpwm3qRjm */
 
@@ -13,11 +20,12 @@
     color: #202020;
 }
 
+
+/* Main Primary color */
 .color-primary-0 {
     color: #1D6881
 }
 
-/* Main Primary color */
 .color-primary-1 {
     color: #307A92
 }
@@ -34,11 +42,13 @@
     color: #134D60
 }
 
+
+
+/* Main Secondary color (1) */
 .color-secondary-1-0 {
     color: #302D90
 }
 
-/* Main Secondary color (1) */
 .color-secondary-1-1 {
     color: #4642A3
 }
@@ -55,11 +65,12 @@
     color: #211E6C
 }
 
+
+/* Main Secondary color (2) */
 .color-secondary-2-0 {
     color: #34AA21
 }
 
-/* Main Secondary color (2) */
 .color-secondary-2-1 {
     color: #4DC13B
 }
@@ -76,11 +87,15 @@
     color: #238015
 }
 
+.color-secondary-2-5 {
+    color: rgba(77,193,59,0.5)
+}
+
+/* Main Primary background */
 .bck-primary-0 {
     background: #1D6881
 }
 
-/* Main Primary background */
 .bck-primary-1 {
     background: #307A92
 }
@@ -97,11 +112,12 @@
     background: #134D60
 }
 
+
+/* Main Secondary background (1) */
 .bck-secondary-1-0 {
     background: #302D90
 }
 
-/* Main Secondary background (1) */
 .bck-secondary-1-1 {
     background: #4642A3
 }
@@ -118,11 +134,12 @@
     background: #211E6C
 }
 
+
+/* Main Secondary background (2) */
 .bck-secondary-2-0 {
     background: #34AA21
 }
 
-/* Main Secondary background (2) */
 .bck-secondary-2-1 {
     background: #4DC13B
 }
