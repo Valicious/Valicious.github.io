@@ -1,0 +1,68 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    font-size: 2em;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+
+/* HEADER */
+header {
+    height: auto;
+    background: #1D6881 url("src/abstract-abstract-photo-art-1022928.jpg") no-repeat center;
+    background-size: cover;
+    padding-bottom: 0.5em;
+}
+
+
+.penguinimg {
+    width: 196px;
+    height: auto;
+    background: #1D6881 url("src/penguin.jpg") no-repeat center;
+    background-size: contain;
+}
+
+.headerdiv2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 5%;
+}
+
+.headerdiv2 h1 {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.headerdiv2 p {
+    margin-left: 2em;
+    font-size: 0.8em;
+}
+
+.headerdiv1 {
+    display: flex;
+    position: relative;
+}
+
+/* NAVIGATION */
+
+nav {
+    width: 100%;
+    position: inherit;
+    display: flex;
+    justify-content: center;
+}
+
+nav .btn > a {
+    padding: 0.2em 2em;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav .btn > a:hover {
+    background: #277088;
+    color: #313437;
+}
+
+
