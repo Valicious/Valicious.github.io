@@ -17,6 +17,7 @@
     <session id="-954201706">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -41,7 +42,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1508" />
+          <entry key="css" value="1517" />
           <entry key="html" value="1926" />
           <entry key="js" value="1766" />
           <entry key="txt" value="34" />
@@ -49,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1508" />
+          <entry key="CSS" value="1517" />
           <entry key="HTML" value="1926" />
           <entry key="JavaScript" value="1766" />
           <entry key="PLAIN_TEXT" value="34" />
@@ -58,14 +59,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.39373872">
+    <splitter split-orientation="horizontal" split-proportion="0.46658638">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="64" column="21" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="21" />
+                <state relative-caret-position="517">
+                  <caret line="42" column="38" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
@@ -77,8 +78,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+                <state relative-caret-position="306">
+                  <caret line="86" column="80" lean-forward="true" selection-start-line="86" selection-start-column="80" selection-end-line="86" selection-end-column="80" />
                 </state>
               </provider>
             </entry>
@@ -183,7 +184,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546696136300" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546696567135" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -216,7 +217,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546675790685</updated>
-      <workItem from="1546675793244" duration="19861000" />
+      <workItem from="1546675793244" duration="20890000" />
     </task>
     <task id="LOCAL-00001" summary="Home Page: header and nav">
       <created>1546685360623</created>
@@ -246,15 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546695922161</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Home Page">
+      <created>1546696146608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546696146608</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19861000" />
+    <option name="totallyTimeSpent" value="20890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -331,15 +338,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="517">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+        <state relative-caret-position="306">
+          <caret line="86" column="80" lean-forward="true" selection-start-line="86" selection-start-column="80" selection-end-line="86" selection-end-column="80" />
         </state>
       </provider>
     </entry>
